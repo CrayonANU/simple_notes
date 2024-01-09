@@ -1,1 +1,1 @@
-# simple_notes
+Simple_Notes is a straightforward and user-friendly note-taking app designed to streamline your daily organization and capture your thoughts on the go. With its minimalist interface and intuitive features, this app is perfect for users who prefer simplicity and efficiency in their note-taking experience.
